@@ -1,12 +1,42 @@
-# React + Vite
+# 🍸 Velvet Pour — Cocktail App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully animated cocktail-themed web app built with **React**, **Tailwind CSS**, and **GSAP**, showcasing premium drink experiences through sleek UI, smooth animations, and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔮 Live Demo
 
-## Expanding the ESLint configuration
+👉 [https://cocktail-app-g21u.vercel.app](https://cocktail-app-g21u.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧪 Tech Stack
+
+- ⚛️ **React** — Component-based UI
+- 🎨 **Tailwind CSS** — Utility-first responsive styling
+- 🧿 **GSAP** — Scroll-triggered animations
+- 🚀 **Vercel** — Seamless CI/CD deployment
+- 🌐 **HTML5 + CSS3 + JavaScript (ES6)**
+
+---
+
+## ✨ Features
+
+- ✅ **Animated Hero Section** with GSAP
+- ✅ Responsive layout for desktop and mobile
+- ✅ Component-based architecture (e.g., `Contact`, `Navbar`, `CocktailList`)
+- ✅ Tailwind for fast UI styling
+- ✅ Deployed to Vercel with custom domain support
+
+---
+
+## 🖼️ Preview
+
+![Homepage Screenshot](./public/screenshot.png)
+
+> “Sip the Spirit of Summer” — immersive landing section with hero visuals and motion.
+
+---
+
+## 📁 Folder Structure
+
