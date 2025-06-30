@@ -32,7 +32,7 @@ A beautifully animated cocktail-themed web app built with **React**, **Tailwind 
 
 ## 🖼️ Preview
 
-![Homepage Screenshot](./public/screenshot.png)
+![Homepage Screenshot](./public/viewpage.png)
 
 > “Sip the Spirit of Summer” — immersive landing section with hero visuals and motion.
 
