@@ -38,20 +38,3 @@ A beautifully animated cocktail-themed web app built with **React**, **Tailwind 
 
 ---
 
-## 📁 Folder Structure
-Coktail-app/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Contact.jsx
-│ │ └── Cocktails.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Menu.jsx
-│ │ └── Art.jsx
-  │ ├── About.jsx
-│ ├── App.jsx
-│ └── index.js
-├── tailwind.config.js
-└── package.json
-
